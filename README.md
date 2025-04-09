@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dilshan-001
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate...
 - 📫 How to reach me - dilshanudara512@gmail.com
 
 <!---
